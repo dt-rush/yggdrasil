@@ -1,0 +1,12 @@
+{
+  "name": "yggdrasil",
+  "version": "0.01",
+  "description": "fractal branching story constructor for multiple players",
+  "main": "bundle.js",
+  "repository": "https://github.com/dt-rush/yygdrasil",
+  "author": "dt-rush",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "polymer": "^0.5.0"
+  }
+}
